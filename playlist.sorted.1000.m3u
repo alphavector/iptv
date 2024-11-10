@@ -1,0 +1,1000 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0",Первый канал HD orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/7253/index.m3u
+#EXTINF:0 tvg-rec="3",Первый канал (+2)
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/714/index.m3u
+#EXTINF:0 tvg-rec="0",Первый канал HD +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15117/index.m3u
+#EXTINF:0 tvg-rec="0",Россия 1 HD orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/7252/index.m3u
+#EXTINF:0 tvg-rec="0",Россия-1 +2
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6011/index.m3u
+#EXTINF:0 tvg-rec="0",Россия-1 +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6022/index.m3u
+#EXTINF:0 tvg-rec="3",НТВ HD orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9028/index.m3u
+#EXTINF:0 tvg-rec="3",НТВ (+2)
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/713/index.m3u
+#EXTINF:0 tvg-rec="0",НТВ +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6024/index.m3u
+#EXTINF:0 tvg-rec="7",Россия 24
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/507/index.m3u
+#EXTINF:0 tvg-rec="0",ТВЦ HD
+#EXTGRP:Региональные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19222/index.m3u
+#EXTINF:0 tvg-rec="3",Рен ТВ HD orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9002/index.m3u
+#EXTINF:0 tvg-rec="3",СТС HD orig
+#EXTGRP:Развлекательные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9000/index.m3u
+#EXTINF:0 tvg-rec="0",СТС +2
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6015/index.m3u
+#EXTINF:0 tvg-rec="0",Домашний HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15116/index.m3u
+#EXTINF:0 tvg-rec="3",ТВ3 HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5033/index.m3u
+#EXTINF:0 tvg-rec="3",Пятница! HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5031/index.m3u
+#EXTINF:0 tvg-rec="0",Мир HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15119/index.m3u
+#EXTINF:0 tvg-rec="0",ТНТ HD orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/7251/index.m3u
+#EXTINF:0 tvg-rec="0",Кинохит HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/7250/index.m3u
+#EXTINF:0 tvg-rec="3",Кинопремьера HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9020/index.m3u
+#EXTINF:0 tvg-rec="3",Киносемья HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9228/index.m3u
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/7245/index.m3u
+#EXTINF:0 tvg-rec="3",Мужское Кино HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9138/index.m3u
+#EXTINF:0 tvg-rec="3",Viju TV1000 HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9058/index.m3u
+#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9057/index.m3u
+#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9059/index.m3u
+#EXTINF:0 tvg-rec="3",Viju+ Megahit HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5081/index.m3u
+#EXTINF:0 tvg-rec="3",Viju+ Premiere HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5079/index.m3u
+#EXTINF:0 tvg-rec="3",Viju+ Comedy HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5080/index.m3u
+#EXTINF:0 tvg-rec="3",Viju+ Serial HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9245/index.m3u
+#EXTINF:0 tvg-rec="3",Кино ТВ HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9051/index.m3u
+#EXTINF:0 tvg-rec="0",Киномикс HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/7249/index.m3u
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/7248/index.m3u
+#EXTINF:0 tvg-rec="3",Киноужас HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9033/index.m3u
+#EXTINF:0 tvg-rec="7",Первый канал FHD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2402/index.m3u
+#EXTINF:0 tvg-rec="0",ОТР HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20018/index.m3u
+#EXTINF:0 tvg-rec="7",Первый канал HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/204/index.m3u
+#EXTINF:0 tvg-rec="7",Первый канал
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/127/index.m3u
+#EXTINF:0 tvg-rec="0",Первый канал +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6021/index.m3u
+#EXTINF:0 tvg-rec="0",Первый канал +6
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6037/index.m3u
+#EXTINF:0 tvg-rec="0",Первый канал +8
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6050/index.m3u
+#EXTINF:0 tvg-rec="3",Россия 1 FHD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2409/index.m3u
+#EXTINF:0 tvg-rec="7",Россия 1 HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/205/index.m3u
+#EXTINF:0 tvg-rec="7",Россия 1
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/504/index.m3u
+#EXTINF:0 tvg-rec="0",Россия-1 +6
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6038/index.m3u
+#EXTINF:0 tvg-rec="0",Россия-1 +8
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6051/index.m3u
+#EXTINF:0 tvg-rec="7",НТВ HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/213/index.m3u
+#EXTINF:0 tvg-rec="0",НТВ Хит HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/16062/index.m3u
+#EXTINF:0 tvg-rec="0",НТВ Мир
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/14035/index.m3u
+#EXTINF:0 tvg-rec="7",НТВ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/501/index.m3u
+#EXTINF:0 tvg-rec="0",НТВ +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6039/index.m3u
+#EXTINF:0 tvg-rec="0",НТВ +8
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6053/index.m3u
+#EXTINF:0 tvg-rec="7",ТВЦ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/520/index.m3u
+#EXTINF:0 tvg-rec="3",ТВЦ (+2)
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/716/index.m3u
+#EXTINF:0 tvg-rec="0",ТВЦ +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6027/index.m3u
+#EXTINF:0 tvg-rec="0",ТВЦ +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6041/index.m3u
+#EXTINF:0 tvg-rec="0",ТВЦ +8
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6056/index.m3u
+#EXTINF:0 tvg-rec="7",Пятый канал
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/112/index.m3u
+#EXTINF:0 tvg-rec="3",Пятый Канал (+2)
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/746/index.m3u
+#EXTINF:0 tvg-rec="0",5 канал +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6025/index.m3u
+#EXTINF:0 tvg-rec="0",5 канал +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6040/index.m3u
+#EXTINF:0 tvg-rec="0",5 канал +8
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6054/index.m3u
+#EXTINF:0 tvg-rec="3",ТНТ FHD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2417/index.m3u
+#EXTINF:0 tvg-rec="7",ТНТ HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/237/index.m3u
+#EXTINF:0 tvg-rec="7",ТНТ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/502/index.m3u
+#EXTINF:0 tvg-rec="3",ТНТ (+2)
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/717/index.m3u
+#EXTINF:0 tvg-rec="0",ТНТ +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6035/index.m3u
+#EXTINF:0 tvg-rec="0",ТНТ +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6049/index.m3u
+#EXTINF:0 tvg-rec="7",СТС
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/506/index.m3u
+#EXTINF:0 tvg-rec="0",СТС +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6029/index.m3u
+#EXTINF:0 tvg-rec="0",СТС +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6043/index.m3u
+#EXTINF:0 tvg-rec="7",Рен ТВ HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2024/index.m3u
+#EXTINF:0 tvg-rec="7",Рен ТВ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/128/index.m3u
+#EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/747/index.m3u
+#EXTINF:0 tvg-rec="0",Рен ТВ +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6028/index.m3u
+#EXTINF:0 tvg-rec="0",Рен ТВ +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6042/index.m3u
+#EXTINF:0 tvg-rec="7",Мир
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/113/index.m3u
+#EXTINF:0 tvg-rec="0",Мир +2
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6019/index.m3u
+#EXTINF:0 tvg-rec="0",Мир +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6034/index.m3u
+#EXTINF:0 tvg-rec="0",Мир +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6048/index.m3u
+#EXTINF:0 tvg-rec="7",ОТР
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/705/index.m3u
+#EXTINF:0 tvg-rec="0",ОТР +2
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6014/index.m3u
+#EXTINF:0 tvg-rec="0",ОТР +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6026/index.m3u
+#EXTINF:0 tvg-rec="0",Звезда Плюс HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19230/index.m3u
+#EXTINF:0 tvg-rec="7",Звезда
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/544/index.m3u
+#EXTINF:0 tvg-rec="3",Звезда (+2)
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/739/index.m3u
+#EXTINF:0 tvg-rec="0",Звезда +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6033/index.m3u
+#EXTINF:0 tvg-rec="0",Звезда +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6047/index.m3u
+#EXTINF:0 tvg-rec="7",СТС Love
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/103/index.m3u
+#EXTINF:0 tvg-rec="7",Че!
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/513/index.m3u
+#EXTINF:0 tvg-rec="7",ТВ3
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/508/index.m3u
+#EXTINF:0 tvg-rec="0",ТВ3 +2
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6017/index.m3u
+#EXTINF:0 tvg-rec="0",ТВ3 +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6031/index.m3u
+#EXTINF:0 tvg-rec="0",ТВ3 +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6045/index.m3u
+#EXTINF:0 tvg-rec="7",Пятница!
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/503/index.m3u
+#EXTINF:0 tvg-rec="0",Пятница +2
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6018/index.m3u
+#EXTINF:0 tvg-rec="0",Пятница +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6032/index.m3u
+#EXTINF:0 tvg-rec="0",Пятница +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6046/index.m3u
+#EXTINF:0 tvg-rec="3",RTVi
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2086/index.m3u
+#EXTINF:0 tvg-rec="7",Суббота!
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/826/index.m3u
+#EXTINF:0 tvg-rec="7",Домашний
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/514/index.m3u
+#EXTINF:0 tvg-rec="0",Домашний +2
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6016/index.m3u
+#EXTINF:0 tvg-rec="0",Домашний +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6030/index.m3u
+#EXTINF:0 tvg-rec="0",Домашний +7
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6044/index.m3u
+#EXTINF:0 tvg-rec="3",Настоящее время
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/986/index.m3u
+#EXTINF:0 tvg-rec="7",Ностальгия
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/102/index.m3u
+#EXTINF:0 tvg-rec="7",Ю ТВ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/534/index.m3u
+#EXTINF:0 tvg-rec="7",ТНТ4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/104/index.m3u
+#EXTINF:0 tvg-rec="7",КВН ТВ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/546/index.m3u
+#EXTINF:0 tvg-rec="7",Сарафан
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/748/index.m3u
+#EXTINF:0 tvg-rec="0",Мособр TV HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/16043/index.m3u
+#EXTINF:0 tvg-rec="3",Точка ТВ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2053/index.m3u
+#EXTINF:0 tvg-rec="3",360 HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2065/index.m3u
+#EXTINF:0 tvg-rec="7",360
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/825/index.m3u
+#EXTINF:0 tvg-rec="3",СПАС
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/983/index.m3u
+#EXTINF:0 tvg-rec="7",Союз
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2016/index.m3u
+#EXTINF:0 tvg-rec="7",Здоровое ТВ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2022/index.m3u
+#EXTINF:0 tvg-rec="7",Психология
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2025/index.m3u
+#EXTINF:0 tvg-rec="7",Успех
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2041/index.m3u
+#EXTINF:0 tvg-rec="7",Кто есть кто
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2042/index.m3u
+#EXTINF:0 tvg-rec="3",Открытый мир
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2078/index.m3u
+#EXTINF:0 tvg-rec="3",Загородный
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2099/index.m3u
+#EXTINF:0 tvg-rec="3",Три ангела
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2116/index.m3u
+#EXTINF:0 tvg-rec="3",БСТ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2108/index.m3u
+#EXTINF:0 tvg-rec="3",Красная линия
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2147/index.m3u
+#EXTINF:0 tvg-rec="3",ЛДПР ТВ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2110/index.m3u
+#EXTINF:0 tvg-rec="3",Хузур ТВ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2150/index.m3u
+#EXTINF:0 tvg-rec="7",Дождь
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2030/index.m3u
+#EXTINF:0 tvg-rec="3",GNC
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/955/index.m3u
+#EXTINF:0 tvg-rec="3",Вместе-РФ
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2073/index.m3u
+#EXTINF:0 tvg-rec="7",Россия-Культура
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/505/index.m3u
+#EXTINF:0 tvg-rec="3",E TV HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5048/index.m3u
+#EXTINF:0 tvg-rec="3",Gametoon
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5049/index.m3u
+#EXTINF:0 tvg-rec="3",Ратник
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2119/index.m3u
+#EXTINF:0 tvg-rec="3",RT Documentary HD orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9031/index.m3u
+#EXTINF:0 tvg-rec="3",360 HD orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9036/index.m3u
+#EXTINF:0 tvg-rec="3",ТВЦ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9095/index.m3u
+#EXTINF:0 tvg-rec="3",Пятый канал orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9096/index.m3u
+#EXTINF:0 tvg-rec="3",Звезда orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9098/index.m3u
+#EXTINF:0 tvg-rec="0",Звезда HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15115/index.m3u
+#EXTINF:0 tvg-rec="3",СТС Love orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9099/index.m3u
+#EXTINF:0 tvg-rec="3",ОТР orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9100/index.m3u
+#EXTINF:0 tvg-rec="3",Че! orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9101/index.m3u
+#EXTINF:0 tvg-rec="3",RTVi orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9102/index.m3u
+#EXTINF:0 tvg-rec="3",Суббота! orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9103/index.m3u
+#EXTINF:0 tvg-rec="0",Суббота! HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15118/index.m3u
+#EXTINF:0 tvg-rec="3",Домашний orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9104/index.m3u
+#EXTINF:0 tvg-rec="3",Ностальгия orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9106/index.m3u
+#EXTINF:0 tvg-rec="3",Ю ТВ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9107/index.m3u
+#EXTINF:0 tvg-rec="3",КВН ТВ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9108/index.m3u
+#EXTINF:0 tvg-rec="3",Сарафан orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9109/index.m3u
+#EXTINF:0 tvg-rec="3",Точка ТВ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9110/index.m3u
+#EXTINF:0 tvg-rec="3",СПАС orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9111/index.m3u
+#EXTINF:0 tvg-rec="3",Союз orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9112/index.m3u
+#EXTINF:0 tvg-rec="3",Здоровое ТВ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9113/index.m3u
+#EXTINF:0 tvg-rec="3",Психология orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9114/index.m3u
+#EXTINF:0 tvg-rec="3",Успех orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9115/index.m3u
+#EXTINF:0 tvg-rec="3",Кто есть кто orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9116/index.m3u
+#EXTINF:0 tvg-rec="3",Открытый мир orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9117/index.m3u
+#EXTINF:0 tvg-rec="3",Красная линия orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9119/index.m3u
+#EXTINF:0 tvg-rec="3",ЛДПР ТВ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9120/index.m3u
+#EXTINF:0 tvg-rec="3",Хузур ТВ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9121/index.m3u
+#EXTINF:0 tvg-rec="3",Вместе-РФ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9124/index.m3u
+#EXTINF:0 tvg-rec="3",Первый канал orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9201/index.m3u
+#EXTINF:0 tvg-rec="3",Россия 1 orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9202/index.m3u
+#EXTINF:0 tvg-rec="0",Россия 1 HD 50
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15133/index.m3u
+#EXTINF:0 tvg-rec="3",НТВ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9203/index.m3u
+#EXTINF:0 tvg-rec="3",ТНТ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9204/index.m3u
+#EXTINF:0 tvg-rec="3",Рен ТВ orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9205/index.m3u
+#EXTINF:0 tvg-rec="3",ТВ3 orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9206/index.m3u
+#EXTINF:0 tvg-rec="3",Пятница! orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9207/index.m3u
+#EXTINF:0 tvg-rec="3",ТНТ4 orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9208/index.m3u
+#EXTINF:0 tvg-rec="3",360 orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9209/index.m3u
+#EXTINF:0 tvg-rec="3",Три ангела orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9210/index.m3u
+#EXTINF:0 tvg-rec="3",Мир orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9211/index.m3u
+#EXTINF:0 tvg-rec="3",Загородный orig
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9212/index.m3u
+#EXTINF:0 tvg-rec="7",Звезда Плюс
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/10059/index.m3u
+#EXTINF:0 tvg-rec="0",RT Documentary HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/14157/index.m3u
+#EXTINF:0 tvg-rec="0",MS Crime HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15136/index.m3u
+#EXTINF:0 tvg-rec="0",ТВЦ International
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15229/index.m3u
+#EXTINF:0 tvg-rec="0",ТНТ International
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15230/index.m3u
+#EXTINF:0 tvg-rec="0",Первый российский национальный канал HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/16023/index.m3u
+#EXTINF:0 tvg-rec="0",Дождь HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20083/index.m3u
+#EXTINF:0 tvg-rec="0",РБК HD 50
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/10029/index.m3u
+#EXTINF:0 tvg-rec="0",Экоспаскоми
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/17018/index.m3u
+#EXTINF:0 tvg-rec="0",Крик-ТВ
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15012/index.m3u
+#EXTINF:0 tvg-rec="0",РБК HD
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/16075/index.m3u
+#EXTINF:0 tvg-rec="0",Инфоканал
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/435/index.m3u
+#EXTINF:0 tvg-rec="3",Россия 24 +2
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6013/index.m3u
+#EXTINF:0 tvg-rec="3",РБК FHD
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2404/index.m3u
+#EXTINF:0 tvg-rec="7",РБК
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/106/index.m3u
+#EXTINF:0 tvg-rec="7",Москва 24
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/523/index.m3u
+#EXTINF:0 tvg-rec="3",Мир 24 HD
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2107/index.m3u
+#EXTINF:0 tvg-rec="7",Мир 24
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/712/index.m3u
+#EXTINF:0 tvg-rec="7",Euronews Россия
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/828/index.m3u
+#EXTINF:0 tvg-rec="7",Известия
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2008/index.m3u
+#EXTINF:0 tvg-rec="3",Центральное телевидение
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2064/index.m3u
+#EXTINF:0 tvg-rec="7",NHK World TV
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/729/index.m3u
+#EXTINF:0 tvg-rec="3",РБК orig
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9213/index.m3u
+#EXTINF:0 tvg-rec="7",CGTN
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/830/index.m3u
+#EXTINF:0 tvg-rec="3",Мир 24 HD orig
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9214/index.m3u
+#EXTINF:0 tvg-rec="3",Euronews Россия orig
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9215/index.m3u
+#EXTINF:0 tvg-rec="3",Известия orig
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9216/index.m3u
+#EXTINF:0 tvg-rec="0",Известия FHD
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/18039/index.m3u
+#EXTINF:0 tvg-rec="3",CGTN orig
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9217/index.m3u
+#EXTINF:0 tvg-rec="3",Москва 24 orig
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9218/index.m3u
+#EXTINF:0 tvg-rec="3",Мир 24 orig
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9219/index.m3u
+#EXTINF:0 tvg-rec="3",RT News orig
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9220/index.m3u
+#EXTINF:0 tvg-rec="3",Центральное телевидение orig
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9222/index.m3u
+#EXTINF:0 tvg-rec="3",CGTN Русский HD orig
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9223/index.m3u
+#EXTINF:0 tvg-rec="0",100 % NEWS
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/16041/index.m3u
+#EXTINF:0 tvg-rec="0",360 Новости HD
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/18038/index.m3u
+#EXTINF:0 tvg-rec="0",Россия РТР
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/18042/index.m3u
+#EXTINF:0 tvg-rec="0",BBC One UK
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19176/index.m3u
+#EXTINF:0 tvg-rec="0",BBC Two UK
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19177/index.m3u
+#EXTINF:0 tvg-rec="0",BBC Alba UK
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19179/index.m3u
+#EXTINF:0 tvg-rec="0",BBC Entertainment UK
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19180/index.m3u
+#EXTINF:0 tvg-rec="0",BBC First UK
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19181/index.m3u
+#EXTINF:0 tvg-rec="0",BBC Scotland UK
+#EXTGRP:Новостные
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19183/index.m3u
+#EXTINF:0 tvg-rec="3",VF Сериалы Турции
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9123/index.m3u
+#EXTINF:0 tvg-rec="0",VF Вестерн
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/31553/index.m3u
+#EXTINF:0 tvg-rec="0",Советское кино
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6545/index.m3u
+#EXTINF:0 tvg-rec="0",Viasat Kino World orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/31447/index.m3u
+#EXTINF:0 tvg-rec="0",Viasat Kino World HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/31448/index.m3u
+#EXTINF:0 tvg-rec="0",Viasat Kino World HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/31449/index.m3u
+#EXTINF:0 tvg-rec="0",BOX СССР 4K
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/31625/index.m3u
+#EXTINF:0 tvg-rec="0",BCU Kinozakaz Premiere 4K
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/31547/index.m3u
+#EXTINF:0 tvg-rec="0",BOX Premiere+ 4K HDR
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/31549/index.m3u
+#EXTINF:0 tvg-rec="0",Любимое Кино HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20014/index.m3u
+#EXTINF:0 tvg-rec="0",FX HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19216/index.m3u
+#EXTINF:0 tvg-rec="0",Боевики HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20172/index.m3u
+#EXTINF:0 tvg-rec="0",Ужасы HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20178/index.m3u
+#EXTINF:0 tvg-rec="0",Трейлеры HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/30149/index.m3u
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD (+4)
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/17022/index.m3u
+#EXTINF:0 tvg-rec="0",Romance HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2037/index.m3u
+#EXTINF:0 tvg-rec="0",Suspense HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2049/index.m3u
+#EXTINF:0 tvg-rec="0",Sumiko HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2163/index.m3u
+#EXTINF:0 tvg-rec="0",KinoLiving
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/16018/index.m3u
+#EXTINF:0 tvg-rec="7",Лавстори HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2034/index.m3u
+#EXTINF:0 tvg-rec="3",Советская киноклассика HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2146/index.m3u
+#EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2002/index.m3u
+#EXTINF:0 tvg-rec="0",Феникс плюс Кино HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/16154/index.m3u
+#EXTINF:0 tvg-rec="3",VHS-ка HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5006/index.m3u
+#EXTINF:0 tvg-rec="0",Viasat Kino Megahit HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/14141/index.m3u
+#EXTINF:0 tvg-rec="0",Viasat Serial HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/17056/index.m3u
+#EXTINF:0 tvg-rec="0",.black HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20019/index.m3u
+#EXTINF:0 tvg-rec="0",.sci-fi HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20020/index.m3u
+#EXTINF:0 tvg-rec="0",Scream HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20021/index.m3u
+#EXTINF:0 tvg-rec="0",Shot TV HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20022/index.m3u
+#EXTINF:0 tvg-rec="0",О!Кино
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20023/index.m3u
+#EXTINF:0 tvg-rec="0",NOW Series HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15102/index.m3u
+#EXTINF:0 tvg-rec="0",Shot TV orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9347/index.m3u
+#EXTINF:0 tvg-rec="3",VF Счастливы Вместе
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9242/index.m3u
+#EXTINF:0 tvg-rec="7",VF Бесстыжие
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/10075/index.m3u
+#EXTINF:0 tvg-rec="7",VF Владимир Высоцкий
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/10066/index.m3u
+#EXTINF:0 tvg-rec="7",VF Два с половиной человека
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/10062/index.m3u
+#EXTINF:0 tvg-rec="0",VF Новогодний
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/17035/index.m3u
+#EXTINF:0 tvg-rec="0",VF Ёлки
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/14222/index.m3u
+#EXTINF:0 tvg-rec="0",VF New Year
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15522/index.m3u
+#EXTINF:0 tvg-rec="0",VF С новым годом!
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15524/index.m3u
+#EXTINF:0 tvg-rec="0",VF Гарри Поттер
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/14230/index.m3u
+#EXTINF:0 tvg-rec="0",VF Секс в большом городе
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/14224/index.m3u
+#EXTINF:0 tvg-rec="0",VF Карточный домик
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/14221/index.m3u
+#EXTINF:0 tvg-rec="0",VF Disney Movie
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15010/index.m3u
+#EXTINF:0 tvg-rec="0",VF Теория большого взрыва
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15009/index.m3u
+#EXTINF:0 tvg-rec="0",Timeless Dizi Channel
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/14006/index.m3u
+#EXTINF:0 tvg-rec="0",TVRUS
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/14022/index.m3u
+#EXTINF:0 tvg-rec="3",CineMan Premium
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/20112/index.m3u
+#EXTINF:0 tvg-rec="3",FX Life
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/9232/index.m3u
+#EXTINF:0 tvg-rec="0",FX Life HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/14003/index.m3u
+#EXTINF:0 tvg-rec="0",MM Family Guy HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19414/index.m3u
+#EXTINF:0 tvg-rec="0",MM OldSchool HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/19413/index.m3u
+#EXTINF:0 tvg-rec="0",FAN HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/16021/index.m3u
+#EXTINF:0 tvg-rec="3",Amedia Hit HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6010/index.m3u
+#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/4000/index.m3u
+#EXTINF:0 tvg-rec="3",Кино UHD 4K
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5004/index.m3u
+#EXTINF:0 tvg-rec="3",Сериал UHD 4K
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5005/index.m3u
+#EXTINF:0 tvg-rec="7",Остросюжетное HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/904/index.m3u
+#EXTINF:0 tvg-rec="3",Премиальное FHD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2410/index.m3u
+#EXTINF:0 tvg-rec="7",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/911/index.m3u
+#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD orig
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5082/index.m3u
+#EXTINF:0 tvg-rec="3",Про Любовь HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2430/index.m3u
+#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2434/index.m3u
+#EXTINF:0 tvg-rec="3",Блокбастер HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2436/index.m3u
+#EXTINF:0 tvg-rec="3",Хит HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2438/index.m3u
+#EXTINF:0 tvg-rec="3",Кинопоказ HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2439/index.m3u
+#EXTINF:0 tvg-rec="3",Наше Мужское HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2440/index.m3u
+#EXTINF:0 tvg-rec="3",Камеди HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2441/index.m3u
+#EXTINF:0 tvg-rec="3",Viju+ Serial HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2443/index.m3u
+#EXTINF:0 tvg-rec="3",Романтичное HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5053/index.m3u
+#EXTINF:0 tvg-rec="7",Комедийное HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/912/index.m3u
+#EXTINF:0 tvg-rec="7",Душевное HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/914/index.m3u
+#EXTINF:0 tvg-rec="7",Наше HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/915/index.m3u
+#EXTINF:0 tvg-rec="3",Любимое HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2106/index.m3u
+#EXTINF:0 tvg-rec="7",Кинопремьера HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/224/index.m3u
+#EXTINF:0 tvg-rec="3",Киноужас HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2056/index.m3u
+#EXTINF:0 tvg-rec="3",Русский роман HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2076/index.m3u
+#EXTINF:0 tvg-rec="3",Русский Иллюзион HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2114/index.m3u
+#EXTINF:0 tvg-rec="3",Дорама HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2131/index.m3u
+#EXTINF:0 tvg-rec="3",Кино ТВ HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2097/index.m3u
+#EXTINF:0 tvg-rec="7",Amedia Premium HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/229/index.m3u
+#EXTINF:0 tvg-rec="7",Hollywood HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/209/index.m3u
+#EXTINF:0 tvg-rec="3",Bollywood HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/239/index.m3u
+#EXTINF:0 tvg-rec="7",Viju+ Premiere HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/202/index.m3u
+#EXTINF:0 tvg-rec="7",Viju+ Comedy HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/200/index.m3u
+#EXTINF:0 tvg-rec="7",Viju+ Megahit HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/201/index.m3u
+#EXTINF:0 tvg-rec="3",Epic Drama
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/1048/index.m3u
+#EXTINF:0 tvg-rec="3",День Победы HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5054/index.m3u
+#EXTINF:0 tvg-rec="3",Победа HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/5052/index.m3u
+#EXTINF:0 tvg-rec="7",Победа
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2003/index.m3u
+#EXTINF:0 tvg-rec="7",Amedia 2 HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2046/index.m3u
+#EXTINF:0 tvg-rec="7",Viju TV1000 Русское
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/101/index.m3u
+#EXTINF:0 tvg-rec="7",.sci-fi
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/110/index.m3u
+#EXTINF:0 tvg-rec="7",Киномикс
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/509/index.m3u
+#EXTINF:0 tvg-rec="7",Киносемья
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/125/index.m3u
+#EXTINF:0 tvg-rec="7",Родное Кино
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/126/index.m3u
+#EXTINF:0 tvg-rec="7",Viju TV1000 Action
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/131/index.m3u
+#EXTINF:0 tvg-rec="7",Кинохит
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/516/index.m3u
+#EXTINF:0 tvg-rec="7",Amedia 2
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/510/index.m3u
+#EXTINF:0 tvg-rec="7",Наше Новое Кино
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/517/index.m3u
+#EXTINF:0 tvg-rec="7",ТВ 21
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/525/index.m3u
+#EXTINF:0 tvg-rec="7",Кинокомедия
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/145/index.m3u
+#EXTINF:0 tvg-rec="7",Индийское Кино
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/146/index.m3u
+#EXTINF:0 tvg-rec="7",Киносерия
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/148/index.m3u
+#EXTINF:0 tvg-rec="7",Русский Иллюзион
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/547/index.m3u
+#EXTINF:0 tvg-rec="7",Еврокино
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/549/index.m3u
+#EXTINF:0 tvg-rec="7",Кинеко
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/550/index.m3u
+#EXTINF:0 tvg-rec="7",Сапфир
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/553/index.m3u
+#EXTINF:0 tvg-rec="7",Дом Кино
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/154/index.m3u
+#EXTINF:0 tvg-rec="7",Amedia 1
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/554/index.m3u
+#EXTINF:0 tvg-rec="7",Amedia Premium
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/555/index.m3u
+#EXTINF:0 tvg-rec="7",Amedia Hit
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/556/index.m3u
