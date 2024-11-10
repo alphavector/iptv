@@ -2,3 +2,23 @@
 #EXTINF:0 tvg-rec="7",Первый канал FHD
 #EXTGRP:Общие
 http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/2402/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый канал HD
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/204/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый канал
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/127/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый канал (+2)
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/714/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6021/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал HD +4
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/15117/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +6
+#EXTGRP:Общие
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/6037/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +8
+#EXTGRP:Общие
