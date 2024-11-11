@@ -312,7 +312,7 @@ for index, channel in enumerate(data.get_channels()):
         c_index = CHANELS_LIST.index(name)
         sorted_ch[c_index] = channel
     else:
-        if name not in EXCLUDE_LIST:
+        if name not in EXCLUDE_LIST and not name.startswith('MM ') and not name.startswith('VF '):
             orig_ch.append(channel)
 
     msg = f'{index}\t{name}'
