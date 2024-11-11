@@ -1799,4 +1799,6 @@ http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/13012/index.m3u
 #EXTINF:0 tvg-rec="0",MM NewFilm 3 HD
 #EXTGRP:Кино
 http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/13013/index.m3u
-
+#EXTINF:0 tvg-rec="0",MM NewFilm RU HD
+#EXTGRP:Кино
+http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/13014/index.m3u
