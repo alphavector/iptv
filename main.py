@@ -80,6 +80,10 @@ pattern = re.compile(
     r"(?<=\s)(?P<country_code>[A-Z]{2})?$"  # Optional country code (two capital letters, only if preceded by a space)
 )
 
+EXCLUDE_LIST = [
+    'MM NewFilm RU HD'
+]
+
 CHANELS_LIST = [
     "Первый канал HD orig",
     "Первый канал (+2)",
@@ -308,7 +312,8 @@ for index, channel in enumerate(data.get_channels()):
         c_index = CHANELS_LIST.index(name)
         sorted_ch[c_index] = channel
     else:
-        orig_ch.append(channel)
+        if name not in EXCLUDE_LIST:
+            orig_ch.append(channel)
 
     msg = f'{index}\t{name}'
     if res:
