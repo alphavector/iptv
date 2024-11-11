@@ -116,6 +116,44 @@ CHANELS_LIST = [
     'Киномикс HD',
     'Кинокомедия HD',
     'Киноужас HD orig',
+    'START Air HD',
+    'START World HD',
+    'Cinema HD',
+    'РБК HD 50',
+    'TERRA HD',
+    'Моя Планета HD orig',
+    'Мосфильм. Золотая коллекция HD',
+    'FAN HD',
+    'Наше Новое Кино HD',
+    'Amedia Premium HD orig',
+    'Curiosity Stream HD orig',
+    'Киносерия orig',
+    'Русский роман HD orig',
+    '360 HD orig',
+    '.black HD',
+    '.sci-fi HD',
+    '.red HD orig',
+    'RU TV HD',
+    'Русский детектив orig',
+    'Че! orig',
+    'Russian Extreme HD orig',
+    'Родное Кино orig',
+    'Русский бестселлер orig',
+    'Ностальгия orig',
+    'Индийское Кино orig',
+    'Солнце',
+    'СуперГерои HD',
+    '365 дней ТВ orig',
+    'Мир 24 HD orig',
+    'Москва 24 orig',
+    '360 Новости HD',
+    'RTG HD orig',
+    'Bridge Hits HD',
+    'Bridge Русский Хит HD',
+    'Bridge Rock HD',
+    'Bridge TV orig',
+    'Bridge Classic orig',
+    'Bridge Шлягер'
 ]
 
 exclude_regions = [
@@ -278,7 +316,7 @@ for index, channel in enumerate(data.get_channels()):
     else:
         msg += f' -> no match'
 
-    # print(msg)
+    print(msg)
 
     i += 1
 
