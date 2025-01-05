@@ -234,6 +234,7 @@ exclude_name_in = {
     "(Новый Уренгой",
     # llll
     'Sport TV+ HD PT',
+    'SKY HIGH FRESH HDR',
 }
 
 exclude_country_codes = [
