@@ -233,9 +233,66 @@ exclude_name_in = {
     "(Красноярск",
     "(Новый Уренгой",
     # llll
-    'Sport TV+ HD PT',
-    'SKY HIGH FRESH HDR',
+    # 'Sport TV+ HD PT',
+    # 'SKY HIGH FRESH HDR',
+    'Трофей',  # UA,
+    'Tviksel Музыка 2 International HD',  # temp
+    'MTV Classic USA', # квадрат
+    'Box Hits HD' , # nw
+    'VB MTV Old Россия HD',
+    'Тооку',
+    'KinoKazka HD', # tnw
 }
+
+exclude_name = [
+    'Nickelodeon', # wrong lang
+    'Jim Jam', # no sound
+    'Jim Jam orig', # no sound
+    'Мульт HD orig', # tnw
+    'Тамыр orig', # tnw
+    'Nickelodeon orig', # wrong lang
+    'SKY HIGH Bunny HD', # tnw
+    'Liberty Мульт UKR 4K', # ukr
+    'Любимое ТВ HD', # tnw
+    'Мама orig', # cube
+    'Оружие orig', # cube
+    'Нано ТВ HD', # no sound
+    'Мама', # cube
+    'История', # cube
+    'Приключения HD orig', # tnw
+    'Travel Channel HD orig', # tnw
+    'Живая природа HD orig', # tnw
+    'Охотник и Рыболов HD orig', # tnw
+    'В мире животных HD orig', # tnw
+    'FoodTime HD 50', # tnw
+    'SKY HIGH NATURE 4K', # tnw
+    'SKY HIGH NATURE 4K HDR', # tnw
+    'SKY HIGH DOC HD', # tnw
+    'SKY HIGH DOC UHD', # tnw
+    'Первый космический HD orig', # tnw
+    'NASA TV 4K', # tnw
+    'Дайвинг TV HD', # tnw
+    'Вкусное TV HD', # tnw
+    'Танцуй! HD', # tnw
+    'Gags Network', # cube
+    'Анекдот ТВ', # cube
+    'Девятая Волна', # nw
+    'ТНТ HD 50', # tnw
+    '[Spectrum] Willow Cricket HD', # no sound
+    '[Spectrum] TUDN HD', # no russian
+    '[Spectrum] RetroPlex HD', # nw
+    '[Spectrum] QVC2 HD', # ad
+    '[Spectrum] QVC HD', # ad
+    'Bally Sports Ohio Cleveland', # ad
+    '[Spectrum] PAC-12 Washington HD', # nw
+    '[Spectrum] PAC-12 Oregon HD', # nw
+    '[Spectrum] PAC-12 Mountain HD', # nw
+    '[Spectrum] PAC-12 Los Angeles HDD', # nw
+    '[Spectrum] PAC-12 Bay Area HD', # nw
+    '[Spectrum] PAC-12 Arizona HD', # nw
+    '[Spectrum] OWN HD', # ad
+    '[Spectrum] OWN HD', # nw
+]
 
 exclude_country_codes = [
     "UA",
@@ -263,6 +320,7 @@ exclude_country_codes = [
     'ER',
     'AL',
     'SE',
+    'CA'
 ]
 
 
@@ -277,6 +335,8 @@ def skip_name(name):
     for ex_name in exclude_name_in:
         if ex_name in name:
             return True
+    if name in exclude_name:
+        return True
     return False
 
 
